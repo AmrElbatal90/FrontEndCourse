@@ -1,0 +1,19 @@
+.parent{
+    background-color: tomato;
+    width: 400px;
+    height: 400px;
+}
+.child{
+    width:100px;
+    height:100px;
+    display: inline-block;
+}
+.child1{
+    background-color: red;
+}
+.child2{
+    background-color: green;
+}
+.child3{
+    background-color: blue;
+}
